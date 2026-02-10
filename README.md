@@ -1,4 +1,4 @@
-# DL_t32025: Deep Learning Project for Sentiment Analysis
+# Deep Learning Project for Sentiment Analysis
 
 This repository contains the code, data, and notebooks for a Deep Learning project focused on Sentiment Analysis, exploring various models like BERT, DeBERTa, and custom LSTMs. The project uses a structured workflow, separating data handling, model training, and inference into distinct script stages.
 
